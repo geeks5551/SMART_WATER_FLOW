@@ -17,6 +17,7 @@
 **Water Pipe(according to your sensor inlet diameter)**
 **Water to tap connector**
 **smartphone for using the app**
+**Female- male jumper wires**
 
 *NOTE: I have used Arduino pro mini to make the project small and easy, you can also use Arduino UNO for this project. Code and connection remain same for both, it’s all about your choice.*
 
